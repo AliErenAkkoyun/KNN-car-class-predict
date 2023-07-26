@@ -1,2 +1,2 @@
 # KNN-car-class-predict
-KNN model that predicts the class of the car
+In this project, the KNN algorithm can predict the class of the desired vehicle according to the information. With minor changes to the Python file, the algorithm can also predict the car price.
